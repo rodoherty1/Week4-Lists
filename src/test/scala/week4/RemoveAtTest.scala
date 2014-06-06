@@ -1,4 +1,4 @@
-package week4.util
+package week4
 
 import org.scalatest.matchers.ShouldMatchers
 import org.scalatest.WordSpec
