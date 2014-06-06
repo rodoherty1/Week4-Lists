@@ -5,4 +5,4 @@ This project is a simply demo of some SBT, ScalaTest using WordSpec and some mor
 
 The code is lifted from one of the Week4 lessons in Coursera's "Functional Programming in Scala"
 
-* `MergeSort.scala` demonstrated Pattern Matching with Tuples to create a very concise implementation of MergeSort
+* `MergeSort.scala` demonstrates Pattern Matching with Tuples to create a very concise implementation of MergeSort
